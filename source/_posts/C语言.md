@@ -111,12 +111,12 @@ $
 | 符号常量  |      # define PRICE 30       | #define 符号常量 常量                           |
 ```
 #include<stdio.h>
-#define wfy 939
+#define like 939
 int main(){
-    int wt=98,sum;
-    sum = wt+wfy;
-    printf("sum=%d",sum);
-    return sum-1024;
+    int lucky=98,love;
+    love = lucky+like;
+    printf("love=%d",love);
+    return love-1024;
 }
 ```
 2. 变量：其值可以改变的量
