@@ -5,8 +5,8 @@
 # Site
 title: LuckyGirl
 subtitle: ''
-description: ''
-keywords:
+description: 'Lucky'
+keywords: 专升本,专升本数学,专升本英语,专升本计算机,专升本数据库,专升本C语言,专升本网络,专升本HTML,专升本html,专升本网页,专升本c语言
 author: LikeLuckyGirl
 language: zh-CN
 timezone: ''
@@ -102,5 +102,5 @@ theme: reimu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/LikeLuckyGIrl/LikeLuckyGirl.github.io.git
+  repo: https://github.com/LikeLuckyGirl/LikeLuckyGirl.github.io.git
   branch: master
